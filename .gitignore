@@ -181,3 +181,11 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
